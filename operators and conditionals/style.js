@@ -73,3 +73,7 @@ switch(num) {
     break;
     default: console.log('F');
 }
+
+let name = `lokesh 
+paliwal`;
+console.log(name);
